@@ -142,8 +142,8 @@ $ curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key a
 ### Initialize your master node
 
 * You now have two new commands installed:
- * kubeadm - used to create new clusters or join an existing one
- * kubectl - the CLI administration tool for Kubernetes
+  * kubeadm - used to create new clusters or join an existing one
+  * kubectl - the CLI administration tool for Kubernetes
  
 * Pre-pull images
 
